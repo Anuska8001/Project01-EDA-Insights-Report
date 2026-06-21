@@ -33,3 +33,4 @@ Netflix Movies and TV Shows Dataset from Kaggle.
 ## Files
 - Project01_EDA_Insights_Report.ipynb
 - README.md
+- netflix_titles.csv
